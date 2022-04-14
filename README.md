@@ -1,0 +1,3 @@
+- download everything
+- run dbmanager.bat (if using Windows)
+- otherwise just open .py in VSCode
